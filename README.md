@@ -10,10 +10,10 @@ En este proyecto dicha tecnologia se emplea para el envio de mensajes entre usua
 ## Instalacion
 Si desea utilizar este proyecto siga los pasos que se describen acontinuacion:
 
-1. [Descargue el proyecto]([https://github.com/IsaacCuautle/Web-Socket-Server/releases/tag/relases](https://github.com/IsaacCuautle/Web-Socket-Server/releases/download/relases/Web-Server-Socket.zip))<br>
+1. [Descargue el proyecto](https://github.com/IsaacCuautle/Web-Socket-Server/releases/download/relases/Web-Server-Socket.zip)<br>
 2. Descomprima el .zip del proyecto y acontinuacion agregelo a su editor de codigo de preferencia<br>
 3. Abra una nueva terminal en el path donde guardo el proyecto y ejecute el comando `npm i` para proceder con las descargas de las dependencias nesesarias<br>
-4. Dentro del archivo **.env-copy** usted puede cambiar el puerto que utilizara la aplicacion para su despliegue, recuerde renombrar el archivo **.env-copy** a **-env**<br>
+4. Dentro del archivo **.env-copy** usted puede cambiar el puerto que utilizara la aplicacion para su despliegue, recuerde renombrar el archivo **.env-copy** a **.env**<br>
 5. Una vez instaladas las dependencias nesesarias ingrese en la terminal el comando `node app.js` para el despliegue de la aplicacion<br>
 6- En su navegador de preferencia ingrese a la direccion `localhost:8080` o el puerto que usted defino en el archivo **.env** anteriormente
 
