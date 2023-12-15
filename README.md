@@ -18,5 +18,7 @@ Si desea utilizar este proyecto siga los pasos que se describen acontinuacion:
 6- En su navegador de preferencia ingrese a la direccion `localhost:8080` o el puerto que usted defino en el archivo **.env** anteriormente
 
 ## Imagenes
-![imagen|10](https://github.com/IsaacCuautle/Web-Socket-Server/assets/65583500/afdd5cbd-ad1e-4778-9665-051415f35b41)
-![ image | 50 ](https://github.com/IsaacCuautle/Web-Socket-Server/assets/65583500/3febbee3-3b18-45d6-aea8-7da0c0019984)
+  <div>
+    <img src="https://github.com/IsaacCuautle/Web-Socket-Server/assets/65583500/afdd5cbd-ad1e-4778-9665-051415f35b41" width="500">
+    <img src="https://github.com/IsaacCuautle/Web-Socket-Server/assets/65583500/3febbee3-3b18-45d6-aea8-7da0c0019984" width="500">
+  </div>
