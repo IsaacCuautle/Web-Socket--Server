@@ -1,4 +1,4 @@
-# Web Server Socket
+# Web Server Socket Chat
 ## Descripcion
 En este proyecto se utiliza la tecnologia de WebSockets la cual permite una comunicacion interactiva entre el navegador de un usuario y un servidor.
 En este proyecto dicha tecnologia se emplea para el envio de mensajes entre usuarios mediante el uso de una interfaz grafica y la consola de desarrollo del navegaor
